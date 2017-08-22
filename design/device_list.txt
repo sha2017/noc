@@ -1,0 +1,97 @@
+| dist-e0-visitor | Trident+ 10GbE | 
+| dist-l0-visitor | Trident+ 10GbE | 
+| dk-liskov-1 | Arista 7048T-A | 
+| dk-liskov-2 | Arista 7048T-A | 
+| workshop-pi | HP 2824 | 
+| workshop-tau | HP 2824 | 
+| ctf-1 | HP 2824 | 
+| dk-olsen-1 | Arista 7048T-A | 
+| dk-olsen-2 | Arista 7048T-A | 
+| dk-olsen-3 | Arista 7048T-A | 
+| dk-turing-2 | Arista 7048T-A | 
+| dk-turing-4 | HP 2848 | 
+| dk-turing-1 | Arista 7048T-A | 
+| dk-turing-3 | Arista 7048T-A | 
+| dk-wozniak-1 | Arista 7048T-A | 
+| dk-wozniak-2 | Arista 7048T-A | 
+| dist-e0-orga | Trident2 10GbE | 
+| dist-l0-orga | Trident2 10GbE | 
+| dist-e0-wifi | Tomahawk | 
+| dist-l0-wifi | Tomahawk | 
+| wlc-e0 | Aruba 72xx | 
+| wlc-l0 | Aruba 72xx | 
+| mx240-campsite | Juniper MX240 | 
+| mx240-nikhef | Juniper MX240 | 
+| dk-lamarr-2 | Arista 7048T-A | 
+| dk-lamarr-4 | Arista 7048T-A | 
+| badge-bar | HP 2824 | 
+| dk-torvalds-2 | Arista 7048T-A | 
+| dk-torvalds-3 | Arista 7048T-A | 
+| dk-torvalds-1 | HP 2848 | 
+| dk-torvalds-4 | Arista 7048T-A | 
+| dk-torvalds-5 | Arista 7048T-A | 
+| dk-lamarr-5 | Arista 7048T-A | 
+| dk-lamarr-3 | Arista 7048T-A | 
+| dk-lamarr-6 | HP 2848 | 
+| dk-lamarr-1 | HP 2848 | 
+| dk-uplink-2 | Arista 7048T-A | 
+| dk-uplink-1 | Arista 7048T-A | 
+| dk-alexander-1 | Arista 7048T-A | 
+| dk-alexander-2 | Arista 7048T-A | 
+| dk-flowers-3 | Arista 7048T-A | 
+| dk-flowers-2 | Arista 7048T-A | 
+| dk-flowers-1 | HP 2848 | 
+| dk-babbage | HP 2900-48G | 
+| dk-lovelace | Arista 7048T-A | 
+| dk-rhodes-1 | Arista 7048T-A | 
+| dk-rhodes-2 | Arista 7048T-A | 
+| dk-hopper-2 | Arista 7048T-A | 
+| dk-hopper-4 | Arista 7048T-A | 
+| dk-hopper-1 | HP 2848 | 
+| silentlounge | Juniper EX2200C-12P | 
+| dk-pier | Arista 7048T-A | 
+| dk-snowden-2 | Arista 7048T-A | 
+| dk-snowden-1 | Arista 7048T-A | 
+| dk-snowden-3 | HP 2900-48G | 
+| dk-clarke | Arista 7048T-A | 
+| family-1 | HP 2824 | 
+| family-2 | HP 2824 | 
+| dk-orga | Trident+ 10GbE | 
+| angels-2 | HP 3500-48G | 
+| warehouse | HP 2824 | 
+| stewards | HP 2824 | 
+| deco | HP 2824 | 
+| poc | Juniper EX2200-24P | 
+| infodesk | Juniper EX2200-24P | 
+| orga | HP 2915 | 
+| servers-e0 | Triumph 48P | 
+| servers-l0 | Triumph 48P | 
+| lounge | Aruba 2930F-8G | 
+| av | Juniper EX3300-24T | 
+| noc | Juniper EX3300-48P | 
+| track-1-no | Juniper EX2200-24P | 
+| track-2-pa | Juniper EX2200-24P | 
+| track-3-re | Juniper EX2200-24P | 
+| bar | Juniper EX2200C-12P | 
+| radiostudio | Juniper EX2200-24P | 
+| pressdesk | HP 2824 | 
+| entrance | Juniper EX2200C-12P | 
+| parking | Aruba 2930F-8G | 
+| dk-manning-2 | Triumph 48P | 
+| dk-manning-1 | Triumph 48P | 
+| n0 | HP 2824 | 
+| ctf-2 | HP 2824 | 
+| safeharbour | HP 2824 | 
+| security | HP 2824 | 
+| cumulus-nikhef | Trident+ 10GbE | 
+| cumulus-campsite | Trident+ 10GbE | 
+| SURFnet | upstream | 
+| CoreBackbone | upstream | 
+| NTT-1 | upstream | 
+| NTT-2 | upstream | 
+| NL-ix | upstream | 
+| sw-flightcase | EX3200-24T | 
+| merchandise | HP 2824 | 
+| dk-wilson | Arista 7048T-A | 
+| dk-boole | Triumph 48P | 
+| infodesk-2 | HP 2824 | 

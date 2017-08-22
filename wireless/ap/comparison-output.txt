@@ -1,0 +1,121 @@
+2017-08-04 15:21:50
+--- APs online ---
+AP063	dk-liskov-1
+AP141	dk-liskov-2
+AP277	workshop-tau
+AP278	workshop-pi
+AP072	dk-olsen-1
+AP074	dk-olsen-2
+AP158	dk-olsen-3
+AP077	dk-turing-2
+AP154	dk-turing-1
+AP084	dk-turing-3
+AP085	dk-wozniak-1
+AP095	dk-wozniak-2
+AP093	dk-lamarr-4
+AP178	badge-bar
+AP094	dk-torvalds-2
+AP102	dk-torvalds-3
+AP103	dk-torvalds-1
+AP104	dk-torvalds-4
+AP138	dk-torvalds-5
+AP226	dk-lamarr-5
+AP139	dk-lamarr-3
+AP438	ap-lamarr-forest
+AP140	dk-lamarr-6
+AP142	dk-lamarr-1
+AP068	ap-backboneblvd-1
+AP237	dk-uplink-2
+AP220	dk-uplink-1
+AP144	dk-alexander-1
+AP217	dk-alexander-2
+AP151	dk-flowers-3
+AP152	dk-flowers-2
+AP221	dk-flowers-1
+AP157	dk-wilson
+AP153	dk-lovelace
+AP156	dk-rhodes-1
+AP176	dk-rhodes-2
+AP234	dk-hopper-2
+AP224	dk-hopper-1
+AP401	ap-engelbart
+AP113	silentlounge-a
+AP276	silentlounge-b
+AP228	dk-peer
+AP229	dk-snowden-2
+AP227	dk-snowden-1
+AP230	dk-snowden-3
+AP439	ap-zuse
+AP235	dk-boole
+AP175	family-1
+AP168	family-2
+AP236	dk-orga
+AP249	angels
+AP231	angel-kitchen
+AP062	angel-tarp
+AP176	warehouse
+AP005	security
+AP174	stewards
+AP181	firstaid
+AP219	poc
+AP155	infodesk
+AP179	finance
+AP243	orga
+AP008	e0
+AP251	lounge-a
+AP116	lounge-b
+AP241	ap-tarp-2
+AP225	av
+AP242	noc
+AP430	track-1-a
+AP432	track-1-b
+AP431	track-1-c
+AP429	track-1-d
+AP427	track-1-e
+AP425	track-1-f
+AP428	track-1-g
+AP404	track-2-a
+AP417	track-2-b
+AP423	track-2-c
+AP426	track-2-d
+AP434	track-2-e
+AP408	track-2-f
+AP411	track-2-g
+AP435	track-2-h
+AP433	track-3-a
+AP436	track-3-b
+AP437	track-3-c
+AP413	track-3-d
+AP160	bar-a
+AP147	bar-b
+AP281	ap-tarp-1
+AP149	radiostudio
+AP114	ap-tarp-3
+AP266	pressdesk
+AP196	entrance-1
+AP172	entrance-3
+AP400	parking
+AP238	dk-manning-2
+AP232	merchandise
+AP240	pancake-village
+AP222	noisysquare
+# Num ok: 99
+
+--- APs offline ---
+AP078	dk-turing-4
+AP092	dk-lamarr-2
+AP223	dk-hopper-4
+AP159	dk-clarke
+AP233	dk-babbage
+AP007	l0
+AP424	track-1-h
+Speeltuin-13	dk-manning-1
+# Num offline: 8
+
+--- APs missing (6) ---
+ap-southtrunk-1
+logistics
+entrance-2
+n0
+ap-n0-1
+safeharbour

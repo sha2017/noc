@@ -1,0 +1,39 @@
+Array
+(
+    [Trident+ 10GbE] => 5
+    [L3] => 47
+    [Arista 7048T-A] => 34
+    [HP 2824] => 16
+    [L2] => 45
+    [HP 2848] => 6
+    [Trident2 10GbE] => 2
+    [Tomahawk] => 2
+    [Aruba 72xx] => 2
+    [Juniper MX240] => 2
+    [HP 2900-48G] => 2
+    [Juniper EX2200C-12P] => 3
+    [HP 3500-48G] => 1
+    [Juniper EX2200-24P] => 6
+    [HP 2915] => 1
+    [Triumph 48P] => 5
+    [Aruba 2930F-8G] => 2
+    [Juniper EX3300-24T] => 1
+    [Juniper EX3300-48P] => 1
+    [upstream] => 10
+    [EX3200-24T] => 1
+)
+Array
+(
+    [10GBASE-BR] => 64
+    [1000BASE-T] => 29
+    [40GBASE-LR4] => 9
+    [10GBASE-LR QSFP breakout] => 5
+    [40GBASE-DAC] => 7
+    [100GBASE-ZR-DWDM] => 1
+    [10GBASE-LR] => 6
+    [1000BASE-T SFP] => 5
+    [1000BASE-BX] => 13
+    [10GBASE-ZR-DWDM] => 1
+    [100GBASE-LR4] => 2
+    [10GBASE-CWDM] => 3
+)

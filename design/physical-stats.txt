@@ -1,0 +1,6 @@
+[DK] => 47
+[Scafftube] => 90
+Copper: 2608m
+Multicore SMF: 21
+2-core SMF: 39
+Copper uplinked DKs: 8
